@@ -1,8 +1,8 @@
 package cache
 
 import (
-	"github.com/eko/gocache/codec"
-	"github.com/eko/gocache/store"
+	"github.com/CDNA-Technologies/gocache/codec"
+	"github.com/CDNA-Technologies/gocache/store"
 )
 
 // CacheInterface represents the interface for all caches (aggregates, metric, memory, redis, ...)

@@ -1,6 +1,6 @@
 [![TravisBuildStatus](https://api.travis-ci.org/eko/gocache.svg?branch=master)](https://travis-ci.org/eko/gocache)
-[![GoDoc](https://godoc.org/github.com/eko/gocache?status.png)](https://godoc.org/github.com/eko/gocache)
-[![GoReportCard](https://goreportcard.com/badge/github.com/eko/gocache)](https://goreportcard.com/report/github.com/eko/gocache)
+[![GoDoc](https://godoc.org/github.com/CDNA-Technologies/gocache?status.png)](https://godoc.org/github.com/CDNA-Technologies/gocache)
+[![GoReportCard](https://goreportcard.com/badge/github.com/CDNA-Technologies/gocache)](https://goreportcard.com/report/github.com/CDNA-Technologies/gocache)
 [![codecov](https://codecov.io/gh/eko/gocache/branch/master/graph/badge.svg)](https://codecov.io/gh/eko/gocache)
 
 Gocache

@@ -1,8 +1,8 @@
 package marshaler
 
 import (
-	"github.com/eko/gocache/cache"
-	"github.com/eko/gocache/store"
+	"github.com/CDNA-Technologies/gocache/cache"
+	"github.com/CDNA-Technologies/gocache/store"
 	"github.com/gogo/protobuf/proto"
 	"github.com/vmihailenco/msgpack"
 )

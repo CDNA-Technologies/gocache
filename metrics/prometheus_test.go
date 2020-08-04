@@ -4,9 +4,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/eko/gocache/codec"
-	mocksCodec "github.com/eko/gocache/test/mocks/codec"
-	mocksStore "github.com/eko/gocache/test/mocks/store"
+	"github.com/CDNA-Technologies/gocache/codec"
+	mocksCodec "github.com/CDNA-Technologies/gocache/test/mocks/codec"
+	mocksStore "github.com/CDNA-Technologies/gocache/test/mocks/store"
 	"github.com/golang/mock/gomock"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/testutil"

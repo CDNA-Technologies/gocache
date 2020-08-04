@@ -1,4 +1,4 @@
-module github.com/eko/gocache
+module github.com/CDNA-Technologies/gocache
 
 go 1.14
 

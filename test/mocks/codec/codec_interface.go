@@ -5,8 +5,8 @@
 package mocks
 
 import (
-	codec "github.com/eko/gocache/codec"
-	store "github.com/eko/gocache/store"
+	codec "github.com/CDNA-Technologies/gocache/codec"
+	store "github.com/CDNA-Technologies/gocache/store"
 	gomock "github.com/golang/mock/gomock"
 	reflect "reflect"
 )

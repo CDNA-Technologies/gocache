@@ -1,7 +1,7 @@
 package codec
 
 import (
-	"github.com/eko/gocache/store"
+	"github.com/CDNA-Technologies/gocache/store"
 )
 
 // Stats allows to returns some statistics of codec usage

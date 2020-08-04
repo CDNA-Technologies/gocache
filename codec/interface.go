@@ -1,7 +1,7 @@
 package codec
 
 import (
-	"github.com/eko/gocache/store"
+	"github.com/CDNA-Technologies/gocache/store"
 )
 
 // CodecInterface represents an instance of a cache codec

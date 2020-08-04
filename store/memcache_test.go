@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
+	mocksStore "github.com/CDNA-Technologies/gocache/test/mocks/store/clients"
 	"github.com/bradfitz/gomemcache/memcache"
-	mocksStore "github.com/eko/gocache/test/mocks/store/clients"
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/assert"
 )

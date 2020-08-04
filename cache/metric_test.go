@@ -5,11 +5,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/eko/gocache/store"
-	mocksCache "github.com/eko/gocache/test/mocks/cache"
-	mocksCodec "github.com/eko/gocache/test/mocks/codec"
-	mocksMetrics "github.com/eko/gocache/test/mocks/metrics"
-	mocksStore "github.com/eko/gocache/test/mocks/store"
+	"github.com/CDNA-Technologies/gocache/store"
+	mocksCache "github.com/CDNA-Technologies/gocache/test/mocks/cache"
+	mocksCodec "github.com/CDNA-Technologies/gocache/test/mocks/codec"
+	mocksMetrics "github.com/CDNA-Technologies/gocache/test/mocks/metrics"
+	mocksStore "github.com/CDNA-Technologies/gocache/test/mocks/store"
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/assert"
 )
